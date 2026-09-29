@@ -12,7 +12,7 @@ body {
     line-height: 1.6;
 }
 #preloader {
-    background: #f0f0f0 url(Preloader.mp4) no-repeat center;
+    background: url(Preloader.mp4) no-repeat center;
     position: fixed;
     top: 0;
     left: 0;
